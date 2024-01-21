@@ -1,0 +1,47 @@
+.testimony-container{
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #303030;
+    box-shadow: 0 8px 32px 0 rgba( 0, 0, 0, 0.9 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.testimony-img{
+    height: 100%;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.container-text-testimony{
+    text-align: center;
+    padding: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+}
+
+.testimony-name{
+    font-size: 1.3rem;
+}
+
+.role-testimony{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.testimony-text{
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+b{
+    font-size: 26px;
+}
